@@ -12,7 +12,7 @@ Django Base Website is a respository that is written in the Django pyton archite
 
 3. Enter ```.venv\scripts\activate``` to activate the environment.
 
-4. Change directory called "django-base-website". Type ```pip install -r requirements.txt``` to install django, django-crispy-forms, and crispy-bootstrap5. Bootstrap 5 and Font Awsome styling are already installed in the base.html.  You can go to [Bootstrap5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) and [Font Awsome](https://fontawesome.com/) for more information. You can style the pages using the styles.css file in the static folder.  Also, you may remove any styling you wish.
+4. Change directory called django-base-website. Type ```pip install -r requirements.txt``` to install django, django-crispy-forms, and crispy-bootstrap5. Bootstrap 5 and Font Awsome styling are already installed in the base.html.  You can go to [Bootstrap5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) and [Font Awsome](https://fontawesome.com/) for more information. You can style the pages using the styles.css file in the static folder.  Also, you may remove any styling you wish.
 
 5. To create the admin database in SQLlite for this project, change directory into the "djangobaseproject folder". Enter ```python manage.py makemigrations```. Once the manager sets up the buid parameters, type ```python manage.py migrate``` to complete the migrations to the database.  Right now only the admin databases plus the contact model for the contacts from the contact.html page.
 
