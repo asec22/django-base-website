@@ -6,7 +6,7 @@ Django Base Website is a respository that is written in the Django pyton archite
 
 ## Instructions on how to the test the website in the local environment in a localhost:
 
-1. You have already done the first step by cloning this project into a nice, clean folder.  Also make sure you have entered your python directory into the enviroment variable PATH in your computer to acces pyton from any directory. 
+1. You have already done the first step by cloning this project into a nice, clean folder.  Also make sure you have entered your python directory into the enviroment variable PATH in your computer to acces python from any directory. 
 
 2. Change to the new folder, but not the cloned directory, and type this command into a terminal: ```python -m venv \path_to_your_forlder\.venv```. This will create the virtual environment with python installed locally into your folder. You can do this in any terminal in any program that supports the terminal on your computer.
 
