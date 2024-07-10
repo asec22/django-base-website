@@ -28,7 +28,7 @@ You can add apps to the base project by using ```python manage.py startapp mynew
 
 Here are two guides for deployment:
 1. [Azure Guide](azure_deploy_vscode_guide.md)
-2. [cPanel Guide](cpanel_depply.md)
+2. [cPanel Guide](cpanel_deploy.md)
 
 Hope you have fun in testing and expanding on this base website! 🙂
 
