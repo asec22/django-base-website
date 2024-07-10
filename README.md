@@ -26,6 +26,10 @@ Created Directory --> .venv,django-base-website --> djangobaseproject --> django
 
 You can add apps to the base project by using ```python manage.py startapp mynewapp``` and name it anything you wish.  You can deploy this on Azure, cPanel, or Google Cloud as per their app registries.
 
+Here are two guides for deployment:
+1. [Azure Guide](azure_deploy_vscode_guide.md)
+2. [cPanel Guide](cpanel_depply.md)
+
 Hope you have fun in testing and expanding on this base website! 🙂
 
 
